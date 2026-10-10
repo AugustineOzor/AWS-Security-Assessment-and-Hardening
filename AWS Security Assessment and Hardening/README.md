@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="CloudNative Corp AWS Security Assessment and Hardening Roadmap" width="100%">
+<img width="2800" height="680" alt="banner" src="https://github.com/user-attachments/assets/c8e74058-9e3f-49e6-b9a0-47ed0d359bc9" />
+
 </p>
 
 # AWS Security Assessment & Hardening Roadmap
